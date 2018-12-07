@@ -1,0 +1,922 @@
+1543525279996	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LbZt8uKO4bvO"
+
+(firefox:15945): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:15945): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543525287828	Marionette	INFO	Listening on port 46051
+1543525287846	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.portaldoempreendedor.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquery-cachekey-e225f3e37b4d5d84b685d8ab25002ea2.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+1543525299705	Marionette	INFO	Stopped listening on port 46051
+1543527322481	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.A7ddeRcZ114Y"
+
+(firefox:17417): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:17417): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1543527324075	Marionette	INFO	Listening on port 41381
+1543527324094	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.portaldoempreendedor.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquery-cachekey-e225f3e37b4d5d84b685d8ab25002ea2.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+1544215433359	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.JC1gDNe9zf9j"
+
+(firefox:7401): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:7401): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544215441271	Marionette	INFO	Listening on port 34817
+1544215441313	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.portaldoempreendedor.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquery-cachekey-e225f3e37b4d5d84b685d8ab25002ea2.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: http://www.portaldoempreendedor.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquery-cachekey-e225f3e37b4d5d84b685d8ab25002ea2.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript error: chrome://browser/content/urlbarBindings.xml, line 2709: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAutoCompleteController.getStyleAt]
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+[Parent 7401, Gecko_IOThread] WARNING: pipe error (116): Connection reset by peer: file /build/firefox-Qjvn2X/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1544215630196	Marionette	INFO	Stopped listening on port 34817
+1544218783160	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0hAibWmeHrNu"
+
+(firefox:12407): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:12407): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544218784720	Marionette	INFO	Listening on port 45575
+1544218784773	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.portaldoempreendedor.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquery-cachekey-e225f3e37b4d5d84b685d8ab25002ea2.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1544218799893	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0Swegt79czvr"
+
+(firefox:12711): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:12711): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544218801569	Marionette	INFO	Listening on port 42029
+1544218801600	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.portaldoempreendedor.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquery-cachekey-e225f3e37b4d5d84b685d8ab25002ea2.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1544218812691	Marionette	INFO	Stopped listening on port 45575
+1544218894510	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7L6udK1xbmIs"
+
+(firefox:13638): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:13638): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544218896082	Marionette	INFO	Listening on port 41429
+1544218896117	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.portaldoempreendedor.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquery-cachekey-e225f3e37b4d5d84b685d8ab25002ea2.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+[Parent 13638, Gecko_IOThread] WARNING: pipe error (98): Connection reset by peer: file /build/firefox-Qjvn2X/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 13638, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-Qjvn2X/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1544218920503	Marionette	INFO	Stopped listening on port 41429
+1544218938771	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.aHmUG4BN6Inx"
+
+(firefox:13957): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:13957): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544218940383	Marionette	INFO	Listening on port 45847
+1544218940492	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.portaldoempreendedor.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquery-cachekey-e225f3e37b4d5d84b685d8ab25002ea2.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+[Parent 13957, Gecko_IOThread] WARNING: pipe error (101): Connection reset by peer: file /build/firefox-Qjvn2X/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1544218947706	Marionette	INFO	Stopped listening on port 45847
+1544219225741	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UChdjEGvwXRj"
+
+(firefox:14701): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:14701): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544219227461	Marionette	INFO	Listening on port 41933
+1544219227563	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.portaldoempreendedor.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquery-cachekey-e225f3e37b4d5d84b685d8ab25002ea2.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1544219297647	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.15ZViYkXgFW0"
+
+(firefox:15192): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:15192): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544219299232	Marionette	INFO	Listening on port 43509
+1544219299253	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.portaldoempreendedor.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquery-cachekey-e225f3e37b4d5d84b685d8ab25002ea2.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1544219305478	Marionette	INFO	Stopped listening on port 43509
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+[Parent 14701, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-Qjvn2X/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 14701, Gecko_IOThread] WARNING: pipe error (91): Connection reset by peer: file /build/firefox-Qjvn2X/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1544219306723	Marionette	INFO	Stopped listening on port 41933
+1544219309925	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7YPIgJlPR525"
+
+(firefox:15510): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:15510): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544219311607	Marionette	INFO	Listening on port 36799
+1544219311633	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.portaldoempreendedor.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquery-cachekey-e225f3e37b4d5d84b685d8ab25002ea2.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+[Parent 15510, Gecko_IOThread] WARNING: pipe error (101): Connection reset by peer: file /build/firefox-Qjvn2X/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 15510, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-Qjvn2X/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1544219318770	Marionette	INFO	Stopped listening on port 36799
+1544219524033	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kJqvcBOJoyvr"
+
+(firefox:15984): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:15984): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544219525664	Marionette	INFO	Listening on port 33279
+1544219525740	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.portaldoempreendedor.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquery-cachekey-e225f3e37b4d5d84b685d8ab25002ea2.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+[Parent 15984, Gecko_IOThread] WARNING: pipe error (98): Connection reset by peer: file /build/firefox-Qjvn2X/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1544219536463	Marionette	INFO	Stopped listening on port 33279
+1544219665905	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5s6hMFfSp9Yx"
+
+(firefox:16531): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:16531): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544219667577	Marionette	INFO	Listening on port 35625
+1544219667611	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.portaldoempreendedor.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquery-cachekey-e225f3e37b4d5d84b685d8ab25002ea2.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1544219676341	Marionette	INFO	Stopped listening on port 35625
+1544219752777	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SSJCFIpdHlEe"
+
+(firefox:16937): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:16937): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544219754347	Marionette	INFO	Listening on port 35609
+1544219754384	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.portaldoempreendedor.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquery-cachekey-e225f3e37b4d5d84b685d8ab25002ea2.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+[Parent 16937, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-Qjvn2X/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 16937, Gecko_IOThread] WARNING: pipe error (94): Connection reset by peer: file /build/firefox-Qjvn2X/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1544219778141	Marionette	INFO	Stopped listening on port 35609
+1544219781171	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.JBxSlVHiSdSg"
+
+(firefox:17265): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:17265): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544219782834	Marionette	INFO	Listening on port 37097
+1544219782889	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.portaldoempreendedor.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquery-cachekey-e225f3e37b4d5d84b685d8ab25002ea2.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1544219798487	Marionette	INFO	Stopped listening on port 37097
+1544219800035	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Vi2A1jiSzBXr"
+
+(firefox:17574): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:17574): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544219801649	Marionette	INFO	Listening on port 37547
+1544219801740	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.portaldoempreendedor.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquery-cachekey-e225f3e37b4d5d84b685d8ab25002ea2.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1544219894951	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.sIs2MLhc0w3t"
+
+(firefox:18127): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:18127): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544219896510	Marionette	INFO	Listening on port 33117
+1544219896565	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.portaldoempreendedor.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquery-cachekey-e225f3e37b4d5d84b685d8ab25002ea2.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1544219925374	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.bQpcm52loUtp"
+
+(firefox:18611): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:18611): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544219927118	Marionette	INFO	Listening on port 39555
+1544219927186	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.portaldoempreendedor.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquery-cachekey-e225f3e37b4d5d84b685d8ab25002ea2.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+[Parent 18611, Gecko_IOThread] WARNING: pipe error (91): Connection reset by peer: file /build/firefox-Qjvn2X/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1544219947526	Marionette	INFO	Stopped listening on port 39555
+[Parent 18127, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-Qjvn2X/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 18127, Gecko_IOThread] WARNING: pipe error (130): Connection reset by peer: file /build/firefox-Qjvn2X/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1544219948247	Marionette	INFO	Stopped listening on port 33117
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 17574, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-Qjvn2X/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 17574, Gecko_IOThread] WARNING: pipe error (101): Connection reset by peer: file /build/firefox-Qjvn2X/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1544219950075	Marionette	INFO	Stopped listening on port 37547
+1544219953645	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.k1U5oB7r88sg"
+
+(firefox:18941): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:18941): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544219955344	Marionette	INFO	Listening on port 39491
+1544219955352	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.portaldoempreendedor.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquery-cachekey-e225f3e37b4d5d84b685d8ab25002ea2.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1544219996578	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.A9pCdRB2XGqx"
+
+(firefox:19259): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:19259): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544219998203	Marionette	INFO	Listening on port 46797
+1544219998284	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.portaldoempreendedor.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquery-cachekey-e225f3e37b4d5d84b685d8ab25002ea2.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1544220009536	Marionette	INFO	Stopped listening on port 46797
+1544220013046	Marionette	INFO	Stopped listening on port 39491
+1544220126250	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.zZrtm4vPnn64"
+
+(firefox:19724): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:19724): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544220127857	Marionette	INFO	Listening on port 35521
+1544220127963	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.portaldoempreendedor.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquery-cachekey-e225f3e37b4d5d84b685d8ab25002ea2.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1544220186638	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.BHTzImkoFfLZ"
+
+(firefox:20217): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:20217): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544220188188	Marionette	INFO	Listening on port 34295
+1544220188245	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.portaldoempreendedor.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquery-cachekey-e225f3e37b4d5d84b685d8ab25002ea2.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1544220199660	Marionette	INFO	Stopped listening on port 34295
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 19724, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-Qjvn2X/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 19724, Gecko_IOThread] WARNING: pipe error (94): Connection reset by peer: file /build/firefox-Qjvn2X/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1544220201538	Marionette	INFO	Stopped listening on port 35521
+1544220383165	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.z9Zyz6P6OPX6"
+
+(firefox:20748): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:20748): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544220384818	Marionette	INFO	Listening on port 44053
+1544220384870	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.portaldoempreendedor.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquery-cachekey-e225f3e37b4d5d84b685d8ab25002ea2.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+
+(firefox:20748): GLib-GObject-WARNING **: /build/glib2.0-7ZsPUq/glib2.0-2.48.2/./gobject/gsignal.c:3486: signal name 'load_complete' is invalid for instance '0x7f3b66d0cc90' of type 'MaiAtkType1'
+1544220401985	Marionette	INFO	Stopped listening on port 44053
+1544220538553	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.oVliJvyU2pzR"
+
+(firefox:21342): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:21342): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544220540138	Marionette	INFO	Listening on port 45177
+1544220540170	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.portaldoempreendedor.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquery-cachekey-e225f3e37b4d5d84b685d8ab25002ea2.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1544220576848	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UORMKDHmlPfe"
+
+(firefox:21725): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:21725): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544220578416	Marionette	INFO	Listening on port 44437
+1544220578469	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.portaldoempreendedor.gov.br/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquery-cachekey-e225f3e37b4d5d84b685d8ab25002ea2.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 87: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-51673052-1, line 147: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+[Parent 21725, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-Qjvn2X/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 21725, Gecko_IOThread] WARNING: pipe error (131): Connection reset by peer: file /build/firefox-Qjvn2X/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1544220610245	Marionette	INFO	Stopped listening on port 44437
+console.error: BroadcastService: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1544220785829	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8AUpwYo3wgMF"
+
+(firefox:22581): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:22581): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544220787455	Marionette	INFO	Listening on port 46237
+1544220787537	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+[Parent 22581, Gecko_IOThread] WARNING: pipe error (101): Connection reset by peer: file /build/firefox-Qjvn2X/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1544220815068	Marionette	INFO	Stopped listening on port 46237
+1544220891843	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.lIvhVz73e1Yg"
+
+(firefox:23030): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:23030): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544220893512	Marionette	INFO	Listening on port 39739
+1544220893551	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 23030, Gecko_IOThread] WARNING: pipe error (98): Connection reset by peer: file /build/firefox-Qjvn2X/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 23030, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-Qjvn2X/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1544220944881	Marionette	INFO	Stopped listening on port 39739
+1544220946314	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8ZwgTQIM6UCb"
+
+(firefox:23549): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:23549): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544220947896	Marionette	INFO	Listening on port 41325
+1544220947926	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1544220979482	Marionette	INFO	Stopped listening on port 41325
+1544220981268	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.67kPmlomYhaC"
+
+(firefox:23868): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:23868): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544220982907	Marionette	INFO	Listening on port 42117
+1544220982973	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+
+(firefox:23868): GLib-GObject-WARNING **: /build/glib2.0-7ZsPUq/glib2.0-2.48.2/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f25dc715fb0' of type 'MaiAtkType139'
+1544221027330	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6byYVWjPKdZO"
+
+(firefox:24328): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:24328): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544221028988	Marionette	INFO	Listening on port 36515
+1544221029050	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 23868, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-Qjvn2X/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 23868, Gecko_IOThread] WARNING: pipe error (96): Connection reset by peer: file /build/firefox-Qjvn2X/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1544221031095	Marionette	INFO	Stopped listening on port 42117
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+
+(firefox:24328): GLib-GObject-WARNING **: /build/glib2.0-7ZsPUq/glib2.0-2.48.2/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f8ae0a15e70' of type 'MaiAtkType139'
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1544221109270	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.87UTmkUfmf9M"
+
+(firefox:24835): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:24835): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544221110843	Marionette	INFO	Listening on port 45425
+1544221110880	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+
+(firefox:24835): GLib-GObject-WARNING **: /build/glib2.0-7ZsPUq/glib2.0-2.48.2/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f7098ea5290' of type 'MaiAtkType139'
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1544221181093	Marionette	INFO	Stopped listening on port 45425
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 24328, Gecko_IOThread] WARNING: pipe error (94): Connection reset by peer: file /build/firefox-Qjvn2X/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 24328, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-Qjvn2X/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1544221184439	Marionette	INFO	Stopped listening on port 36515
+1544221186548	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kv6AwFTZ5OMs"
+
+(firefox:25185): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:25185): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544221188097	Marionette	INFO	Listening on port 41605
+1544221188156	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+
+(firefox:25185): GLib-GObject-WARNING **: /build/glib2.0-7ZsPUq/glib2.0-2.48.2/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f9cb8ca9650' of type 'MaiAtkType139'
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1544221234496	Marionette	INFO	Stopped listening on port 41605
+1544221263923	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Cp0JRq1qexwm"
+
+(firefox:25625): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:25625): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544221265567	Marionette	INFO	Listening on port 40455
+1544221265636	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+
+(firefox:25625): GLib-GObject-WARNING **: /build/glib2.0-7ZsPUq/glib2.0-2.48.2/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f6bc4b575b0' of type 'MaiAtkType139'
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1544221335761	Marionette	INFO	Stopped listening on port 42029
+1544221339338	Marionette	INFO	Stopped listening on port 40455
+1544221666340	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.krPx1sCnMLeW"
+
+(firefox:26432): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:26432): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544221667929	Marionette	INFO	Listening on port 36167
+1544221667954	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+[Parent 26432, Gecko_IOThread] WARNING: pipe error (133): Connection reset by peer: file /build/firefox-Qjvn2X/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1544221695028	Marionette	INFO	Stopped listening on port 36167
+1544221700772	Marionette	INFO	Stopped listening on port 45177
+1544221704916	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ivONN1oaur4a"
+
+(firefox:26791): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:26791): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544221706502	Marionette	INFO	Listening on port 45877
+1544221706524	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+
+(firefox:26791): GLib-GObject-WARNING **: /build/glib2.0-7ZsPUq/glib2.0-2.48.2/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f13c4f38bf0' of type 'MaiAtkType139'
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 26791, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-Qjvn2X/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 26791, Gecko_IOThread] WARNING: pipe error (96): Connection reset by peer: file /build/firefox-Qjvn2X/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1544221813425	Marionette	INFO	Stopped listening on port 45877
+1544221815954	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.nuKExUPLv94m"
+
+(firefox:27296): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:27296): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544221817610	Marionette	INFO	Listening on port 44989
+1544221817659	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+
+(firefox:27296): GLib-GObject-WARNING **: /build/glib2.0-7ZsPUq/glib2.0-2.48.2/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f0515211a10' of type 'MaiAtkType139'
+[Parent 27296, Gecko_IOThread] WARNING: pipe error (98): Connection reset by peer: file /build/firefox-Qjvn2X/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1544221853692	Marionette	INFO	Stopped listening on port 44989
+1544221856478	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.eFgQHCCjgcEi"
+
+(firefox:27612): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:27612): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544221858108	Marionette	INFO	Listening on port 43851
+1544221858183	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+
+(firefox:27612): GLib-GObject-WARNING **: /build/glib2.0-7ZsPUq/glib2.0-2.48.2/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f1f088bd1a0' of type 'MaiAtkType139'
+console.error: "TypeError: this.onSelected is not a function: onDetachedFront@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/computed/computed.js:1461:5\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:15\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:5\n_onMutations@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/selection.js:105:7\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:15\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:5\nWalkerFront<.getMutations</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:414:7\n"
+TypeError: this.onSelected is not a function: onDetachedFront@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/computed/computed.js:1461:5
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:15
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:5
+_onMutations@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/selection.js:105:7
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:15
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:5
+WalkerFront<.getMutations</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:414:7
+
+console.error: "TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/shared/style-change-tracker.js:65:13\nonMutations@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/shared/style-change-tracker.js:82:11\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:15\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:5\nWalkerFront<.getMutations</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:414:7\n"
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/shared/style-change-tracker.js:65:13
+onMutations@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/shared/style-change-tracker.js:82:11
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:15
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:5
+WalkerFront<.getMutations</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:414:7
+
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: TypeError: to is null
+Stack: onPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1695:11
+send/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/local-transport.js:64:11
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 1695, column: 11
+console.error: "Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: TypeError: to is null\nStack: onPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1695:11\nsend/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/local-transport.js:64:11\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 1695, column: 11"
+console.error: "TypeError: this.onSelected is not a function: onDetachedFront@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/computed/computed.js:1461:5\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:15\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:5\n_onMutations@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/selection.js:105:7\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:15\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:5\nWalkerFront<.getMutations</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:414:7\n"
+TypeError: this.onSelected is not a function: onDetachedFront@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/computed/computed.js:1461:5
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:15
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:5
+_onMutations@resource://devtools/shared/base-loader.js -> resource://devtools/client/framework/selection.js:105:7
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:15
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:5
+WalkerFront<.getMutations</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:414:7
+
+console.error: "TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/shared/style-change-tracker.js:65:13\nonMutations@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/shared/style-change-tracker.js:82:11\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:15\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:5\nWalkerFront<.getMutations</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:414:7\n"
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/shared/style-change-tracker.js:65:13
+onMutations@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/shared/style-change-tracker.js:82:11
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:15
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:5
+WalkerFront<.getMutations</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:414:7
+
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: TypeError: to is null
+Stack: onPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1695:11
+send/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/local-transport.js:64:11
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 1695, column: 11
+console.error: "Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: TypeError: to is null\nStack: onPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1695:11\nsend/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/local-transport.js:64:11\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nexports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 1695, column: 11"
+1544221922937	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.usaZXiNVUDS3"
+
+(firefox:28067): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:28067): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544221924561	Marionette	INFO	Listening on port 46533
+1544221924653	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+[Parent 27612, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-Qjvn2X/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 27612, Gecko_IOThread] WARNING: pipe error (98): Connection reset by peer: file /build/firefox-Qjvn2X/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1544221928488	Marionette	INFO	Stopped listening on port 43851
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+
+(firefox:28067): GLib-GObject-WARNING **: /build/glib2.0-7ZsPUq/glib2.0-2.48.2/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7efd62a263d0' of type 'MaiAtkType139'
+[Parent 28067, Gecko_IOThread] WARNING: pipe error (91): Connection reset by peer: file /build/firefox-Qjvn2X/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1544221975426	Marionette	INFO	Stopped listening on port 46533
+1544221978964	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7KZfbs4rVYnx"
+
+(firefox:28388): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:28388): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544221980553	Marionette	INFO	Listening on port 46691
+1544221980575	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+
+(firefox:28388): GLib-GObject-WARNING **: /build/glib2.0-7ZsPUq/glib2.0-2.48.2/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f63b54711a0' of type 'MaiAtkType139'
+
+(firefox:28388): GLib-GObject-WARNING **: /build/glib2.0-7ZsPUq/glib2.0-2.48.2/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f63a9767880' of type 'MaiAtkType139'
+[Parent 28388, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-Qjvn2X/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 28388, Gecko_IOThread] WARNING: pipe error (101): Connection reset by peer: file /build/firefox-Qjvn2X/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1544221999194	Marionette	INFO	Stopped listening on port 46691
+1544222003954	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0KucjjkjShsa"
+
+(firefox:28693): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:28693): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544222005534	Marionette	INFO	Listening on port 34751
+1544222005565	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+
+(firefox:28693): GLib-GObject-WARNING **: /build/glib2.0-7ZsPUq/glib2.0-2.48.2/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f59a80eae20' of type 'MaiAtkType139'
+
+(firefox:28693): GLib-GObject-WARNING **: /build/glib2.0-7ZsPUq/glib2.0-2.48.2/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f59a5725ec0' of type 'MaiAtkType139'
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 28693, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-Qjvn2X/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 28693, Gecko_IOThread] WARNING: pipe error (98): Connection reset by peer: file /build/firefox-Qjvn2X/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1544222060495	Marionette	INFO	Stopped listening on port 34751
+1544222061713	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tPH9jvwLg3ZZ"
+
+(firefox:29145): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:29145): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544222063314	Marionette	INFO	Listening on port 37981
+1544222063324	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+
+(firefox:29145): GLib-GObject-WARNING **: /build/glib2.0-7ZsPUq/glib2.0-2.48.2/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f06774bdab0' of type 'MaiAtkType139'
+
+(firefox:29145): GLib-GObject-WARNING **: /build/glib2.0-7ZsPUq/glib2.0-2.48.2/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f0666c3fa10' of type 'MaiAtkType139'
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+[Parent 29145, Gecko_IOThread] WARNING: pipe error (94): Connection reset by peer: file /build/firefox-Qjvn2X/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 29145, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-Qjvn2X/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1544222098984	Marionette	INFO	Stopped listening on port 37981
+1544222100611	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Q4VgzUI8sd3D"
+
+(firefox:29460): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:29460): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544222102237	Marionette	INFO	Listening on port 38715
+1544222102316	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+
+(firefox:29460): GLib-GObject-WARNING **: /build/glib2.0-7ZsPUq/glib2.0-2.48.2/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f2e52b807e0' of type 'MaiAtkType139'
+
+(firefox:29460): GLib-GObject-WARNING **: /build/glib2.0-7ZsPUq/glib2.0-2.48.2/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f2e51b6e970' of type 'MaiAtkType139'
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1544222154172	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VN9XQdGAqz9h"
+
+(firefox:29884): Gtk-WARNING **: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:29884): Gtk-WARNING **: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1544222155884	Marionette	INFO	Listening on port 42687
+1544222155978	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+
+(firefox:29884): GLib-GObject-WARNING **: /build/glib2.0-7ZsPUq/glib2.0-2.48.2/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f40f7670dd0' of type 'MaiAtkType139'
+
+(firefox:29884): GLib-GObject-WARNING **: /build/glib2.0-7ZsPUq/glib2.0-2.48.2/./gobject/gsignal.c:3486: signal name 'selection_changed' is invalid for instance '0x7f40ebe51920' of type 'MaiAtkType139'
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/jquery/jquery.js.jsf, line 246: unreachable code after return statement
+JavaScript warning: http://www22.receita.fazenda.gov.br/inscricaomei/private/resources/scripts/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1544222179156	Marionette	INFO	Stopped listening on port 42687
+[Parent 29460, Gecko_IOThread] WARNING: pipe error (98): Connection reset by peer: file /build/firefox-Qjvn2X/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 29460, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-Qjvn2X/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1544222181869	Marionette	INFO	Stopped listening on port 38715
